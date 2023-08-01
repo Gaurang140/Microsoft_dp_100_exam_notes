@@ -23,7 +23,8 @@ ws_basic = Workspace(
     display_name="Basic workspace-example",
     description="This example shows how to create a basic workspace",
 )
-ml_client.workspaces.begin_create(ws_basic) ```
+ml_client.workspaces.begin_create(ws_basic)´´´
+
 
 ## Giving Access to Azure Machine Learning Workspace
 
