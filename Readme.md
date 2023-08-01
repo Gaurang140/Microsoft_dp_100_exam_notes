@@ -13,7 +13,7 @@ Note : Azure subscription requires to practice lab from microsoft learn platform
 - Deploy and retrain a model (10–15%)
 
 
-### Microsoft Learn Official Collection
+## Microsoft Learn Official Collection
  
 [Official Collection](https://learn.microsoft.com/en-us/certifications/exams/dp-100/)
 
