@@ -13,11 +13,18 @@ Note : Azure subscription requires to practice lab from microsoft learn platform
 - Deploy and retrain a model (10–15%)
 
 
-## Microsoft Learn Official Collection
+## Microsoft Learn Official Collection 
  
 [Official Collection](https://learn.microsoft.com/en-us/certifications/exams/dp-100/)
 
 [Free Practice assessment](https://learn.microsoft.com/certifications/exams/dp-100/practice/assessment?assessment-type=practice&assessmentId=62)
 
+
+## Explore Azure ML Works Space Personal Notes
+
 [Notes Explore Machine Learning Workspace](https://github.com/Gaurang140/Microsoft_dp_100_exam_notes/blob/88b85759daa313b757d35b52ffa5c09e7b6ddc16/Exploere%20the%20Azure%20Machine%20Learning%20Workspace)
+
+[Video Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/explore-azure-machine-learning-workspace-resources-assets/1b-video) 
+
+
 
